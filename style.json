@@ -31,7 +31,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://free.tilehosting.com/data/v3.json?key={key}"
+      "url": "http://localhost:8080/data/baumkataster.json"
     }
   },
   "sprite": "https://openmaptiles.github.io/positron-gl-style/sprite",
